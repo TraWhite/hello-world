@@ -12,10 +12,18 @@ p{
 div{
 	background-color:mediumblue;
 	padding:20px;
+	display:flex;
+	flex-direction:row;
+	justify-content: center;
+	text-align: center;
 }
-.footer {
+footer{
 	background-color:mediumseagreen;
 	padding:20px;
+	display:flex;
+	flex-direction:row;
+	justify-content: center;
+	text-align: center;
 }
 .center-content {
 	display:flex;
