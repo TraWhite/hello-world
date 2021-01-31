@@ -6,6 +6,9 @@ body{
 	padding:10px;
 	font-family: "courier new"
 }
+p{
+	margin-left: 25px;
+}
 .footer {
 	background-color:mediumseagreen;
 	padding:20px;
