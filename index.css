@@ -1,9 +1,8 @@
 html{
-	background-color: black
+	background-color:lightgrey;
 }
 body{
-	background-color:lightgrey;
-	margin:25px
+	margin:25px;
 	padding:10px;
 }
 .footer {
