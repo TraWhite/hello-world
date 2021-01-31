@@ -12,7 +12,6 @@ p{
 div{
 	background-color:mediumblue;
 	padding:20px;
-	text-align: center;
 }
 .footer {
 	background-color:mediumseagreen;
@@ -22,6 +21,7 @@ div{
 	display:flex;
 	flex-direction:row;
 	justify-content: center;
+	text-align: center;
 }
 .column {
 	flex-direction: column;
