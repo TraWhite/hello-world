@@ -26,3 +26,6 @@ div{
 .column {
 	flex-direction: column;
 }
+.remove-color{
+	background-color: lightgrey;
+}
