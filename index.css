@@ -1,0 +1,20 @@
+html{
+	background-color: black
+}
+body{
+	background-color:lightgrey;
+	margin:25px
+	padding:10px;
+}
+.footer {
+	background-color:mediumseagreen;
+	padding:20px;
+}
+.center-content {
+	display:flex;
+	flex-direction:row;
+	justify-content: center;
+}
+.column {
+	flex-direction: column;
+}
