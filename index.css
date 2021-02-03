@@ -26,7 +26,8 @@ footer{
 	text-align: center;
 }
 p:hover{
-	background-color: mediumseagreen
+	background-color: mediumseagreen;
+	color: mediumblue;
 }
 .center-content {
 	display:flex;
