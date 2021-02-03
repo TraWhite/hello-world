@@ -25,6 +25,10 @@ footer{
 	justify-content: center;
 	text-align: center;
 }
+p:hover{
+	background-color: mediumseagreen;
+	color: mediumblue;
+}
 .center-content {
 	display:flex;
 	flex-direction:row;
@@ -45,8 +49,4 @@ footer{
 }
 .greentext{
 	color: green;
-}
-.button{
-	background-color: #83CCA4;
-	color: mediumblue;
 }
